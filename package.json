@@ -1,0 +1,17 @@
+{
+  "name": "backened",
+  "version": "1.0.0",
+  "description": "Learning backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Batman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
